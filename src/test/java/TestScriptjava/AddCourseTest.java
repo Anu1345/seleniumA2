@@ -6,7 +6,7 @@ import java.util.Map;
 import org.testng.annotations.Test;
 
 import geniricutilies.BaseClass;
-
+//This test verifies if user is able to couseTest
 public class AddCourseTest extends BaseClass{
 	@Test
 	
