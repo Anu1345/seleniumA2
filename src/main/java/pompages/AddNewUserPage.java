@@ -1,6 +1,7 @@
 package pompages;
 
 import org.openqa.selenium.WebDriver;
+//this test verifies if user able to create category
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
